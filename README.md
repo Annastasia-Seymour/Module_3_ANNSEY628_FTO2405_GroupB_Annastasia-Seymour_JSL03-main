@@ -1,7 +1,7 @@
 # [JSL03] Project Submission: Which one is which? Declarative or Imperative?!
 
 Loom Recording Link: [https://www.loom.com/share/d3d8e0ac37854278bc1076e3987afd76]
-
+// i was injured during the making of this video😂
 # Project Overview
 
 In this project, you will be presented with two JavaScript code examples, each demonstrating a different programming paradigm: imperative and declarative. Your task is to analyse these examples and determine which one follows an imperative programming style and which one follows a declarative programming style. 
